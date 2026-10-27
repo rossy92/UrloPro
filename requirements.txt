@@ -9,7 +9,6 @@ curl_cffi
 fake-headers
 pydantic_settings
 httpx
-Crypto
 pycryptodome
 tenacity
 xmltodict
